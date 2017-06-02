@@ -2,7 +2,7 @@
 ## assumption that it is invertable, only if this is the first time for this 
 ## specific ooperation.
 
-## The first funtion makes a global matrix object, and has functions for
+## The first function makes a global matrix object, and has functions for
 ## getting and setting the inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
